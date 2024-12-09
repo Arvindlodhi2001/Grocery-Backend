@@ -1,0 +1,18 @@
+{
+  "name": "backend-grocery",
+  "version": "1.0.0",
+  "description": "A Backend service of  Grocery Shopping Website it is the mega project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Backend",
+    "MongoDB",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Arvind Lodhi",
+  "license": "ISC"
+}
